@@ -1,16 +1,22 @@
-### Hi there 👋
+### Bem vindo(a)! Eu sou a Nycole 👋
 
-<!--
-**Nycolete/Nycolete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com SRE
+- 🌱 Estou aprendendo Java Script
+- 😄 Pronomes: Ela/Dela
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Nycolete's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nycolete&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolete&theme=tokyonight)](https://github.com/Nycolete/github-readme-stats)
+
+<div class:linguagens>
+         <img align="center" alt="Nyc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+         <img align="center" alt="Nyc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+         <img align="center" alt="Nyc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+         <img align="center" alt="Nyc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+         <img align="center" alt="Nyc-CSS" height="60" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+         <img align="center" alt="Nyc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+         <img align="center" alt="Nyc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+          
