@@ -2,7 +2,7 @@
 
 - 💻 Hoje trabalho como Jovem Aprendiz em SRE (Site Reliability Engineering)
 - 📖 Estou aprendendo Java Script
-- 🙍🏾‍♀️ Pronomes: Ela/Dela
+- 🙍🏾‍♀️  Ela/Dela
 
 
 
