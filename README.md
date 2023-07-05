@@ -1,7 +1,7 @@
 ### Bem vindo(a)! Eu sou a Nycole 👋
 
-- 💻 Hoje trabalho como Jovem Aprendiz em SRE (Site Reliability Engineering)
-- 📖 Estou aprendendo Java Script
+- 💻 Hoje trabalho como Jovem Aprendiz em Costumer Care focado na área de Dados. 
+- 📖 Estou aprendendo Java
 - 🙍🏾‍♀️  Ela/Dela
 
 
