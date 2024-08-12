@@ -1,6 +1,6 @@
 ### Bem vindo(a)! Eu sou a Nycole 👋
 
-- 💻 Hoje trabalho como Jovem Aprendiz em Costumer Care focado na área de Dados. 
+- 💻 Estudante de Desenvolvimento de Software na Fatec
 - 📖 Estou aprendendo Java
 - 🙍🏾‍♀️  Ela/Dela
 
